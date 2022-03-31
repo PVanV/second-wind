@@ -14,6 +14,8 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Second Wind
+title_separator: "|"
+subtitle: "A MCP tournament in Chicago"
 email:
 description: >- # this means to ignore newlines until "baseurl:"
   Join Alfredo's Size 3 Taco Truck and the Chicago MCP community at Alarmist Brewing for the Third annual Second Wind Tournament! 
