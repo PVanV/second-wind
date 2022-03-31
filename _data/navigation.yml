@@ -1,3 +1,11 @@
 main:
   - title: "Rules"
     url: /rules/
+  - title: "Registration"
+    url: /registration/
+  - title: "Accomodations"
+    url: /accomodations/
+  - title: "Schedule"
+    url: /schedule/
+  - title: "Contact Us"
+    url: /contact/
