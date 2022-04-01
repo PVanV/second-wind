@@ -6,7 +6,7 @@ layout: single
 ---
 
 Hotel block: $135
-1. Go to www.hiskokie.com
+1. Go to TBD
 2. On this page, input dates: ARRIVAL DEPARTURE then click on BOOK NOW
 3. On the next page, far right side: “Change Search” click on the drop down arrow
 4. On the next page, select number of people, then click “Group Code”-it is in white lettering and will reveal the text box.
