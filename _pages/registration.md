@@ -3,6 +3,7 @@ title: "Registration"
 sitemap: true
 permalink: /registration/
 layout: single
+author_profile: false
 ---
 
 PRICE: $35 / person

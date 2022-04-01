@@ -1,6 +1,7 @@
 ---
 title: "Post: Gallery"
 permalink: /test/
+author_profile: false
 layout: splash
 categories:
   - Post Formats
