@@ -23,7 +23,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Featuring an incredible prize pool, a raffle, and many of the US's best players. 
   Whether you're a friendly neighborhood player or an omega level threat, come warm up with a strong beer and play some Marvel Crisis Protocol!
 minimal_mistakes_skin: neon
-search: true
+search: false
 
 # Build settings
 markdown: kramdown

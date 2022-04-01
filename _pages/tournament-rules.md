@@ -5,10 +5,11 @@ permalink: /rules/
 layout: single
 ---
 
-# **PLAYER RESPONSIBILITIES**
+
+## **PLAYER RESPONSIBILITIES**
 Players attending an event are responsible for supplying their own miniatures, cards, dice, measuring tools, tokens, rosters, and other game pieces that are required during play. 
 
-## **MINIATURES**
+### **MINIATURES**
 Each player must have the miniature for each character on their roster. Players are allowed to customize their miniatures as they like but must follow these guidelines:
 
 1. The miniature must be made from a majority of Atomic Mass Games miniature parts from the *Crisis Protocol* miniatures line.
@@ -16,26 +17,26 @@ Each player must have the miniature for each character on their roster. Players 
 1. The size or pose of a customized miniature cannot interfere with game play.
 1. Miniatures must always be attached to a modeled base that is the appropriate size and shape of the original miniature.
 
-## **CARDS**
+### **CARDS**
 A player must have all Character cards, Team Tactic cards, and Crisis cards included in their roster. Proxies of cards are allowed if approved by the EO.
 
-## **DICE**
+### **DICE**
 Players must use official *Crisis Protocol* dice. This includes the dice found in the Core Box, Dice Expansions, and/or promotional material distributed by Atomic Mass Games. Players may use replacement dice if approved by the EO.
 
-## **MEASURING TOOLS**
+### **MEASURING TOOLS**
 Players are required to bring their own set of measuring tools. This includes both range and movement tools. Players are never allowed to modify their measuring tools but may replace them. Players using substitutions should check with the EO before the event begins so the tools can be verified as being the correct size and shape. Players may not use measuring devices that do not have an equivalent tool supplied by Atomic Mass Games.
 
-## **TOKENS**
+### **TOKENS**
 There are two types of tokens in *Crisis Protocol*:  **essential** and **nonessential**. Essential tokens are tokens placed on the game board to represent specific effects. These tokens have a specific size and are supplied with the characters or cards that require them. Nonessential tokens are usually placed on character cards and are used to track damage, power, or an effect. 
 
 Players are never allowed to modify their essential tokens but may replace them. Players using substitutions should check with the EO before the event begins so the tokens can be verified as being the correct size and shape. Players may modify or replace nonessential tokens as long as the tokens used are clear and do not interfere with game play.
 
-## **ROSTER**
+### **ROSTER**
 A player must submit a roster to the EO before the event begins and may not change their roster once the event begins. A roster is built as described on page 9 of the *Crisis Protocol* Core Rules book, which can be found at [atomicmassgames.com/rules](http://www.atomicmassgames.com/rules). 
 
 Additionally, there is a list of restricted cards that can be found at  atomicmassgames.com/rules. A player may include only 2 cards found on this list in their roster. 
 
-## **SPORTSMANSHIP**
+### **SPORTSMANSHIP**
 All players are expected to act in a civil way during the event. Disputes and disagreements will happen during games, but players should remain respectful of other players, EOs, and the space they are playing in. Should a dispute or an argument arise, the players should immediately call for a judge to help resolve the issue. 
 
 *Crisis Protocol* is an open information game. Players can always request to see stat cards, Team Tactic cards, and Crisis cards that are in an opponent’s roster both before and during the game. Players should never attempt to obscure or mislead their opponent about any stats, cards, or superpowers they have available.
@@ -56,16 +57,14 @@ Examples of unsportsmanlike conduct include:
 - Intentionally disrupting the placement of miniatures, terrain, or tokens on the table.
 - Quickly removing dice from the table before your opponent can verify your roll.
 
-
-
-# **USE OF TIMING DEVICES**
+## **USE OF TIMING DEVICES**
 ### **EVENT ROUND TIMES**
 Each event round of *Crisis Protocol* is a predetermined length, giving players a certain amount of time to complete their games. The EO should start the timer for an event round after most players have found their seats and begun to set up. If a game has not concluded when the time for an event round runs out, the player with the most victory points (VPs) is the winner. In the case of a tie, players will immediately score the table as if the round had ended. If it is still a tie at this point, it will be recorded as a draw.
 
-This event will use a 130 minute round timer.
+This event will use a 100 minute round timer.
 
 ### **CHESS CLOCKS**
-Chess clocks will be used for Second Wind. Chess clocks should be set to 60 minutes per player. When a player’s clock runs out, they immediately lose the game regardless of current VPs.
+Chess clocks will be used for Second Wind. Chess clocks should be set to 45 minutes per player. When a player’s clock runs out, they immediately lose the game regardless of current VPs.
 
 At the start of the game, the clocks will remain paused until deployment and the first power phase is complete, at which point the priority player will start their clock and take their first turn.
 
@@ -75,7 +74,9 @@ The clock may be paused at the players’ discretion to resolve rules queries or
 
 In order to ensure timing in tournament games is fair and reasonable, at the end of the round the clock is immediately paused for the entirety of the Cleanup Phase and the following Power Phase. If either player is taking an excessive amount of time to resolve any decisions or player effects, a judge should be called to help resolve the issue.
 
-# **EVENT ORGANIZER RESPONSIBILITIES**
+---
+
+## **EVENT ORGANIZER RESPONSIBILITIES**
 The Event Organizer, or EO, is the person, store, or event that is putting on the event. Much like players, the EO has a set of responsibilities for the event.
 
 ### **TOURNAMENT LENGTH**
