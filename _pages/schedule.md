@@ -3,6 +3,7 @@ title: "Schedule"
 sitemap: true
 permalink: /schedule/
 layout: single
+author_profile: false
 ---
 
 ##### Saturday

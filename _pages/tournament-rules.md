@@ -4,6 +4,7 @@ sitemap: true
 permalink: /rules/
 layout: single
 toc: true
+author_profile: false
 ---
 
 
