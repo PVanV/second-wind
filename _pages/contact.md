@@ -6,4 +6,4 @@ layout: single
 author_profile: false
 ---
 
-Hahaha no
+For any questions or concerns, shoot us a DM on Twitter: [https://twitter.com/AlfredosTaco](https://twitter.com/AlfredosTaco)
