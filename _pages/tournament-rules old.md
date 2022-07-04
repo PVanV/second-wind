@@ -1,12 +1,11 @@
 ---
 title: "Player Rules"
 sitemap: true
-permalink: /rules/
+permalink: /rulesOld/
 layout: single
 toc: true
 author_profile: false
 ---
-
 
 ## **PLAYER RESPONSIBILITIES**
 Players attending an event are responsible for supplying their own miniatures, cards, dice, measuring tools, tokens, rosters, and other game pieces that are required during play. 
