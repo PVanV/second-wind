@@ -8,7 +8,7 @@ author_profile: false
 
 ## **Second Wind 4 has sold out!**
 
-To be added to the waitlist, please email [vcurkov@gmail.com](mailto:vcurkov@gmail.com) with the subject line "Second Wind Waitlist" and be sure to include your longshanks number and contact info. If a spot opens up, we will contact you over email and you will have two weeks to claim it before it is passed to the next person on the list. 
+To be added to the waitlist, please email [vcurkov@gmail.com](mailto:vcurkov@gmail.com) with the subject line "Second Wind Waitlist" and be sure to include your Longshanks number and contact info. If a spot opens up, we will contact you over email and you will have two weeks to claim it before it is passed to the next person on the list. 
 
 [comment]: # (PRICE: $45 / person)
 
