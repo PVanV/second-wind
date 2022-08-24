@@ -20,3 +20,6 @@ Holiday Inn & Suites Chicago North Shore (Skokie)
 7. Select Rate. If multiple rates apply over multiple night stay you will be able to see the rate p/night.
 
 Or you can call the 1-800 number for the hotel and give them the code SEC or ask for the name of the group which is Second Wind
+
+We've been made aware that there are some issues with the online booking system in regards to the hotel block. 
+If you are having any problems using the code, you can email [vziga@lakhanihospitality.com](mailto:vziga@lakhanihospitality.com)
