@@ -19,7 +19,7 @@ Each player must have the miniature for each character on their roster. Players 
 1. Miniatures must always be attached to an Atomic Mass Games base or a modeled base that is the appropriate size and shape of the original miniature.
 
 ### **Cards**
-A player must have all Character cards, Team Tactic cards, and Crisis cards included in their roster. Proxies of cards are allowed if approved by the EO.
+A player must have all Character cards, Team Tactic cards, and Crisis cards included in their roster. Proxies of cards are allowed if approved by the EO and must have the full rules text included.
 
 ### **Dice**
 Players should use official *Marvel: Crisis Protocol* dice, which includes the dice found in the Core Box, Dice Expansions, and/or promotional material distributed by Atomic Mass Games. Players may use replacement dice if approved by the EO.
