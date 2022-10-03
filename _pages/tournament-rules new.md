@@ -40,3 +40,18 @@ Each player is responsible for their own time. A player has the right to pass th
 The clock may be paused at the players’ discretion to resolve rules queries or judge calls. Excessive pausing of the clock will be considered time wasting by the judges and may be penalised.
 
 In order to ensure timing in tournament games is fair and reasonable, at the end of the round the clock is immediately paused for the entirety of the Cleanup Phase and the following Power Phase. If either player is taking an excessive amount of time to resolve any decisions or player effects, a judge should be called to help resolve the issue.
+
+## **PAINTING COMPETITION**
+Second Wind’s painting competition will have three categories, judged by a panel of painting experts:
+
+* Best Roster
+* Best Hero
+* Best Villain
+
+Each player may submit one entry each to all three categories. No player can win more than a single category. 
+
+The “Roster” category concerns the set of 10 models the player is using in the tournament. The “Hero” and “Villain” individual model categories concern a single model each, chosen by the player, that is among the models the player is using in the tournament. 
+
+When submitting models for the painting competition, players will be required to indicate which models they are submitting to the individual model categories. Slips of paper will be provided to label painting submissions and indicate models. If a player fails to indicate a model for one of the two individual model categories, they will not be considered in contention for that category. One model cannot be submitted for both “Hero” and “Villain” categories even if that character has canonically been considered both a hero and a villain. 
+
+The painting competition will take place during lunch on Saturday Oct. 15th, and the winners will be announced in the closing ceremony on Sunday Oct. 16th. 
