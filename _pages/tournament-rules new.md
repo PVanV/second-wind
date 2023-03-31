@@ -54,4 +54,4 @@ The “Roster” category concerns the set of 10 models the player is using in t
 
 When submitting models for the painting competition, players will be required to indicate which models they are submitting to the individual model categories. Slips of paper will be provided to label painting submissions and indicate models. If a player fails to indicate a model for one of the two individual model categories, they will not be considered in contention for that category. One model cannot be submitted for both “Hero” and “Villain” categories even if that character has canonically been considered both a hero and a villain. 
 
-The painting competition will take place during lunch on Saturday Oct. 15th, and the winners will be announced in the closing ceremony on Sunday Oct. 16th. 
+The painting competition will take place during lunch on Saturday Oct. 21st, and the winners will be announced in the closing ceremony on Sunday Oct. 22nd. 
