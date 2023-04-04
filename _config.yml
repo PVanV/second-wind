@@ -26,6 +26,7 @@ minimal_mistakes_skin: neon
 search: false
 teaser: /assets/images/bio-photo.jpg
 logo: /assets/images/second_wind_logo_cropped.png
+og_image: /assets/images/Scond_Wind_5_Logo_Clear_Cropped.png
 
 # Build settings
 markdown: kramdown
