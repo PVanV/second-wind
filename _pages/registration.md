@@ -6,7 +6,7 @@ layout: single
 author_profile: false
 ---
 
-Tickets Coming Soon for Second Wind 5!
+[comment]: # (Tickets Coming Soon for Second Wind 5!)
 
 
 
@@ -15,7 +15,7 @@ Tickets Coming Soon for Second Wind 5!
 
 PRICE: $50 / person
 
-[comment]: # (Payable at: [paypal.me/VincentCurkov/50](https://paypal.me/VincentCurkov/50))
+Payable at: [paypal.me/VincentCurkov/50](https://paypal.me/VincentCurkov/50)
 
-[comment]: # (Pay above via PayPal to be registered on Longshanks!)
-[comment]: # (Please include the Longshanks number and name of the person you are signing up in the memo. If you do not have a Longshanks number include that information in the memo.)
+Pay above via PayPal to be registered on Longshanks!
+Please include the Longshanks number and name of the person you are signing up in the memo. If you do not have a Longshanks number include that information in the memo.
