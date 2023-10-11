@@ -24,6 +24,9 @@ A player must have all Character cards, Team Tactic cards, and Crisis cards incl
 ### **Dice**
 Players should use official *Marvel: Crisis Protocol* dice, which includes the dice found in the Core Box, Dice Expansions, and/or promotional material distributed by Atomic Mass Games. Players may use replacement dice if approved by the EO.
 
+### **Deployment (The Pastrami Rule)**
+As the mats are only pre-marked in one orientation, players are not allowed to rotate the mat and can only choose to deploy from one of the two edges facing the chairs.
+
 ### **USE OF TIMING DEVICES**
 #### **Swiss Round Times**
 Each event round of *Marvel: Crisis Protocol* is a predetermined length, giving players a certain amount of time to complete their games. The EO should start the timer for an event round after most players have found their seats and begun to set up. If a game has not concluded when the time for an event round runs out, the player with the most victory points (VPs) is the winner. In the case of a tie, players will immediately score the table as if the round had ended. If it is still a tie at this point, it will be recorded as a draw.
