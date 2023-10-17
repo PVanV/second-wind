@@ -24,6 +24,10 @@ A player must have all Character cards, Team Tactic cards, and Crisis cards incl
 ### **Dice**
 Players should use official *Marvel: Crisis Protocol* dice, which includes the dice found in the Core Box, Dice Expansions, and/or promotional material distributed by Atomic Mass Games. Players may use replacement dice if approved by the EO.
 
+### **Measurement Tools**
+1. Choose one set of widgets and use those for the entire game.
+1. When a model is pushed or thrown a declared distance, it is assumed that the model can be pushed or thrown back the same distance and return to the same point. (This is commonly a result of someone with new widgets throwing a model off an objective and then the model being pushed back onto the point with the old widgets)
+
 ### **Deployment (The Pastrami Rule)**
 As the mats are only pre-marked in one orientation, players are not allowed to rotate the mat and can only choose to deploy from one of the two edges facing the chairs.
 
