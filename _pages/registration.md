@@ -17,7 +17,5 @@ PRICE: $55 / person
 
 Payable at: [paypal.me/VincentCurkov/55](https://paypal.me/VincentCurkov/55)
 
-[comment]: # (Payable at: Sold Out!)
-
 Pay above via PayPal to be registered on Longshanks!
 Please include the Longshanks number and name of the person you are signing up in the memo. If you do not have a Longshanks number include that information in the memo.
