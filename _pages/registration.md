@@ -6,12 +6,12 @@ layout: single
 author_profile: false
 ---
 
-Tickets Coming Soon for Second Wind 7!
+Tickets on sale Tuesday 5/6 @ 11am CDT, email to pay available here at the time
 
 
 PRICE: $60 / person
 
-[comment]: # (Payable at: [paypal.me/VincentCurkov/55](https://paypal.me/VincentCurkov/55))
+[comment]: # (Payable at: [paypal.me/VincentCurkov/60](https://paypal.me/VincentCurkov/60))
 
 [comment]: # (Payable at: Sold Out)
 
