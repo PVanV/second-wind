@@ -8,9 +8,9 @@ author_profile: false
 
 There is no formal hotel block this year, but we recommend the following location:
 
-[https://www.ihg.com/holidayinn/hotels/us/en/skokie/chisk/hoteldetail](https://www.ihg.com/holidayinn/hotels/us/en/skokie/chisk/hoteldetail)
+[https://www.marriott.com/en-us/hotels/chihp-courtyard-chicago-highland-park-northbrook/overview/](https://www.marriott.com/en-us/hotels/chihp-courtyard-chicago-highland-park-northbrook/overview/)
 
 
-Holiday Inn Skokie
+Courtyard by Marriott Chicago Highland Park/Northbrook
 
-5300 W Touhy Ave, Skokie, IL 60077
+1505 Lake Cook Road, Highland Park, Illinois, USA, 60035

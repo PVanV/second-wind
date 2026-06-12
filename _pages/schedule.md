@@ -1,12 +1,10 @@
 ---
-title: "Tentative Schedule"
+title: "Schedule"
 sitemap: true
 permalink: /schedule/
 layout: single
 author_profile: false
 ---
-
-Final Schedule TBD 
 
 ##### Saturday
 - Registration 10:00 AM

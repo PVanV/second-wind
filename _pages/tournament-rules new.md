@@ -55,7 +55,7 @@ Second Wind’s painting competition will have three categories, judged by a pan
 * Best Hero
 * Best Villain
 
-Each player may submit one entry each to all three categories. No player can win more than a single category. 
+Each player may submit one entry each to all three categories. No player can win more than a single category. Comission painted models or models painted by friends are not allowed.
 
 The “Roster” category concerns the set of 10 models the player is using in the tournament. The “Hero” and “Villain” individual model categories concern a single model each, chosen by the player, that is among the models the player is using in the tournament. 
 
