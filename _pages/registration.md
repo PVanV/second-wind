@@ -8,9 +8,9 @@ author_profile: false
 
 PRICE: $60 / person
 
-Coming Soon!
+[comment]: # (Coming Soon!)
 
-[comment]: # (Payable at: [https://buy.stripe.com/4gMasdasd01](https://buy.stripe.com/4gM00basdasd01))
+Payable at: [https://buy.stripe.com/4gM00b1MYgiu4G3aiP8Vi01](https://buy.stripe.com/4gM00b1MYgiu4G3aiP8Vi01)
 
 Pay above via Stripe to be registered on Longshanks!
 
