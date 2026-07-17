@@ -51,15 +51,14 @@ In order to ensure timing in tournament games is fair and reasonable, at the end
 ## **PAINTING COMPETITION**
 Second Wind’s painting competition will have three categories, judged by a panel of painting experts:
 
-* Best Roster
-* Best Hero
-* Best Villain
+* Best Roster<br/>
+The “Roster” category concerns the set of 10 models the player is using in the tournament.
+* Best Model<br/>
+The “Model” category concerns a single model, chosen by the player, that is among the models the player is using in the tournament.
+* O.S.C.O.R.P (Obviously So Cool Or Really Pretty)<br/>
+The O.S.C.O.R.P award will go to the single model or roster that the judges personally find the most novel, funniest, or just all around coolest. This is not a technical skill category, but instead based on creativity, theming, and ingenuity.
 
 Each player may submit one entry each to all three categories. No player can win more than a single category. Comission painted models or models painted by friends are not allowed.
-
-The “Roster” category concerns the set of 10 models the player is using in the tournament. The “Hero” and “Villain” individual model categories concern a single model each, chosen by the player, that is among the models the player is using in the tournament. 
-
-When submitting models for the painting competition, players will be required to indicate which models they are submitting to the individual model categories. Slips of paper will be provided to label painting submissions and indicate models. If a player fails to indicate a model for one of the two individual model categories, they will not be considered in contention for that category. One model cannot be submitted for both “Hero” and “Villain” categories even if that character has canonically been considered both a hero and a villain. 
 
 The painting competition will take place during lunch on day one, and the winners will be announced in the closing ceremony after the finals. 
 
